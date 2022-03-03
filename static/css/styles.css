@@ -1,29 +1,30 @@
-.jumbotron {
-	color: #49a81d;
-	font-family: Arial, Helvetica, sans-serif;
-    padding-left: 80px;
+	.jumbotron {
+		color: lightyellow;
+		background-image: url("../Images/Cow.jpg");
+		background-size: 100% 100%;
+		text-align: center;
 
-}
+	}
 
-#metaPanel {
-	font-size: smaller;
-	font-family: Arial, Helvetica, sans-serif;
-	color: #49a81d;
-}
+	#metaPanel {
+		font-size: smaller;
+		font-family: Arial, Helvetica, sans-serif;
+		color: blue;
+	}
 
-#metaPanel .panel-header {
-    text-align: center;
-}
-
-#selDataset {
-	padding: 20px;
-    color: black;
-}
-
-#samplePanel {
-	font-family: Arial, Helvetica, sans-serif;
+	#metaPanel .panel-header {
 	text-align: center;
-	color: #49a81d;
-}
+	}
+
+	#selDataset {
+		padding: 20px;
+	color: black;
+	}
+
+	#samplePanel {
+		font-family: Arial, Helvetica, sans-serif;
+		text-align: center;
+		color: blue;
+}}
 © 2022 GitHub, Inc.
 Terms
